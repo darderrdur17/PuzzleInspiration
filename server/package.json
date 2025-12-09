@@ -1,0 +1,12 @@
+{
+  "name": "creativity-puzzle-server",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
+
